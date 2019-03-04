@@ -1,0 +1,153 @@
+.topbar
+{
+	background:#db0a0a;
+}
+.header-icon
+{
+	border: 2px solid #fbac02;
+}
+.header-info-text span
+{
+	color:#fff;
+}
+.nav li a
+{
+	font-weight:700;
+	font-size:14px;
+}
+ 
+.overlay
+{
+	background:rgba(219, 10, 10, 0.2);
+	    border-radius: 5px;
+}
+.slide-title
+{
+	font-size: 44px;	
+	color:#fff;
+}
+.center
+{
+	text-align:left;
+}
+.button-row
+{
+	text-align:left;
+}
+.fa-angle-left:before
+{
+padding: 15px;
+   background:#db0a0a;
+
+}
+.fa-angle-right:before
+{
+   padding: 15px;
+   background:#db0a0a;
+}
+.build-slider .button-row a.button-type-4
+{
+	background: #db0a0a;
+    border-color: #db0a0a;
+}
+ .build-slider .button-row a.button-type-4:hover
+ {
+	 color:#db0a0a;
+	 
+ }
+ .info-section_mod
+ {
+	     background: #db0a0a;
+ }
+ .custom-text
+ {
+	 font-size:24px;
+	  color: #ffc73a;
+ }
+ .icon-style span
+ {
+	 background: #db0a0a;
+ }
+ .title-build .title:after
+ {
+	 background: #db0a0a;
+	width:70px;
+ }
+.build-box .portfolio-mask {
+   background: rgba(219, 10, 10, 0.8)
+}
+.icon-style span
+{
+	border-radius:10px;
+}
+ 
+.scroll-top
+{
+	background: #db0a0a;
+    border: 2px solid #db0a0a;
+}
+.l-post-info
+{
+	text-align: center !important;
+}
+.user-icons
+{
+	margin-right:10px;
+	margin-left:10px;
+}
+ 
+.read:hover {
+    background: #db0a0a;
+    border-color: #db0a0a;
+}
+.tag-cloud-link
+{
+	border-radius:50px;
+}
+.footer .tag-cloud-link:hover {
+    background: #db0a0a;
+    border-color: #db0a0a;
+}
+.footer .widget li a:hover {
+    color: #db0a0a;
+}
+.footer #prev a, .footer #next a, .footer th {
+    color: #db0a0a;
+}
+a:hover {
+    color: #db0a0a;
+}
+.icon-style span {
+    border-radius: 50%;
+}
+.portfolio-mask-info span
+{
+	font-size:16px;
+	font-family: cursive;
+}
+.post-ico-orange {
+    background: #db0a0a;
+    
+}
+.button-type-3-xs {
+    background: #db0a0a;
+    border-color: #db0a0a;
+}
+.tag-cloud-link:hover {
+ 
+    border-color: #db0a0a;
+}
+.tag-cloud-link {
+    background: #db0a0a;
+    border-color: #db0a0a;
+}
+.widget_recent_entries li a:hover {
+    color: #db0a0a;
+}
+
+.widget li a:hover {
+    color: #db0a0a;
+}
+.build-header nav li > a:hover {
+    color: #db0a0a !important;
+}
